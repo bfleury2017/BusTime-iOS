@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>General</key>
+	<dict>
+		<key>Rules of the Road</key>
+		<array>
+			<string>No food or drink on the bus.
+• No smoking on the bus.
+• Radios and phones on low or use headphones.
+• Unruly passengers will not be transported on the
+bus.
+• Mobility devices (wheelchairs and scooters) are
+required to be secured by the driver</string>
+		</array>
+		<key>Fares</key>
+		<array>
+			<string>Test</string>
+		</array>
+		<key>ADA Paratransit Service</key>
+		<array>
+			<string>Test</string>
+		</array>
+		<key>Cat Ticket Outlets</key>
+		<array>
+			<string>Test</string>
+		</array>
+		<key>Bikes on Buses</key>
+		<array>
+			<string>Test</string>
+		</array>
+		<key>Service Days/Holidays</key>
+		<array>
+			<string>Test</string>
+		</array>
+		<key>Ridesharing</key>
+		<array>
+			<string>Test3</string>
+		</array>
+	</dict>
+	<key>Contact</key>
+	<array/>
+</dict>
+</plist>
